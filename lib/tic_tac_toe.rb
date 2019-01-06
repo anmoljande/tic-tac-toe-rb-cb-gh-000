@@ -170,6 +170,7 @@ elsif draw?(board)
  puts "Cat's game"
 end
 end
+end
 
 
 
